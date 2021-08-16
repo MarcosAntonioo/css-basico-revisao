@@ -1,0 +1,38 @@
+.a{
+    color: red;
+    background-color: aliceblue;
+}
+.b{
+    color: red;
+    background-color: antiquewhite;
+}
+.c{
+    color: red;
+    background-color: azure;
+}
+.e{
+    background-color: aqua;
+    font-weight: bold;
+}
+.r{
+    text-align: right;
+    background-color: beige;
+}
+.i{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.d{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+.p{
+    background-color: brown;
+    font-weight: bold;
+}
+.o{
+    text-align: center;
+}
+.re{
+    text-align: right;
+}
